@@ -1,7 +1,7 @@
 ### E aí, beleza? 👋 Sou o Guilherme!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5dWRsZzJkaGZ0a3VwZzJ6bWw5cWw0a3NqbzN0cWJ0eXNqYjNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y5dWRsZzJkaGZ0a3VwZzJ6bWw5cWw0a3NqbzN0cWJ0eXNqYjNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 </p>
 
 Sou um Desenvolvedor Front-end apaixonado por transformar ideias em interfaces digitais incríveis e interativas. Atualmente, faço parte do time da **Compass Uol**, uma empresa global que impulsiona a transformação de organizações através de tecnologias de ponta como Inteligência Artificial.
@@ -57,11 +57,16 @@ Sempre buscando evoluir e contribuir!
 
 ### 🎧 O que estou ouvindo agora?
 
-<p align="center">
-  <a href="https://github.com/novatorem/novatorem/blob/master/profile-3d-contrib/profile-night-green.svg">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=guiriibeiro52&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4db6ac&bar_color_cover=false"/>
-  </a>
-</p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+&nbsp;<div align="center">
+  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</div>
 
 
 
